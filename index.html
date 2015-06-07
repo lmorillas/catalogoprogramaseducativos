@@ -9,12 +9,17 @@
     <meta name="og:description" content="Programas educativos Gobierno de Aragón">
     <meta name="keywords" content="Programas educativos Gobierno de Aragón">
     <!-- Datos + importadores -->
+    <!--
     <link href="catalogoprog.json" type="application/json" rel="exhibit-data">
+    -->
+    <link href="catalogo_cen.json" type="application/json" rel="exhibit-data">
+    <link href="centros.json" type="application/json" rel="exhibit-data">
+
     <!-- libs simile-exhibit -->
     <script src="http://api.simile-widgets.org/exhibit/HEAD/lib/jquery-1.7.2.min.js" type="text/javascript">
     </script>
     <script src="http://api.simile-widgets.org/exhibit/3.1.1/exhibit-api.js" type="text/javascript"></script>
-    <link rel="exhibit-extension" href="http://api.simile-widgets.org/exhibit/3.1.0rc/extensions/time/time-extension.js" type="text/javascript">
+    <link rel="exhibit-extension" href="http://api.simile-widgets.org/exhibit/3.1.1/extensions/map/map-extension.js" />
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap-theme.min.css">
@@ -53,13 +58,15 @@
 
             </div>
             <div class="col-xs-8">
-                <div data-ex-role="view" data-ex-orders=".label" data-ex-direction="ascending" data-ex-grouped="false" data-ex-show-all="false" data-ex-abbreviated-count="10">
+            <div data-ex-role="exhibit-viewPanel">
+                <div data-ex-role="view" data-ex-orders=".label" data-ex-direction="ascending" data-ex-grouped="false" data-ex-show-all="false"
+                 data-ex-label="Catálogo" data-ex-abbreviated-count="10">
                     <div data-ex-role="lens" class="act-lens" style="Display:none">
 
                         <table class="table table-hover">
                             <tr >
                                 <td>
-                                    <div class="title"><span class="title" data-ex-content=".label"></span> <a data-ex-href-content=".url" class="pull-right btn btn-info"><span class="glyphicon glyphicon-info-sign" aria-hidden="true">&nbsp;</span>Más información</a></div>
+                                    <div class="title"><span class="title" data-ex-content=".label"></span> <a data-ex-href-content=".url" target="_blank" class="pull-right btn btn-info"><span class="glyphicon glyphicon-info-sign" aria-hidden="true">&nbsp;</span>Más información</a></div>
                                      <div ><span class="property">Descripción:</span><span data-ex-content=".descripcion"></span></div>
                                      <div ><span class="property">Destinatarios:</span><span data-ex-content=".destinatarios"></span></div>
                                     <div data-ex-if="exists(.gestor)">
@@ -80,7 +87,11 @@
                         <p></p>
                     </div>
                 </div>
+                <div data-ex-role="view" data-ex-view-class="Map" data-ex-label="Mapa" data-ex-latlng=".centros.coord" data-ex-center="41.6561, -0.8773" data-ex-zoom="8" data-ex-map-height="600" data-ex-show-tool-box="true" data-ex-color-key=".centros.tipo">
+                    </div>
             </div>
+        </div>
+
         </div>
         <footer>
             <a href="https://github.com/lmorillas">By @lmorillas</a>
