@@ -1,0 +1,418 @@
+{
+    "items": [{
+        "label": "PROGRAMA CONVIVE Y CONCILIA"
+    }, {
+        "url": "http://catalogo00.wikispaces.com/Apertura+de+centros",
+        "subtopicof": "PROGRAMA CONVIVE Y CONCILIA",
+        "type": "ta",
+        "label": "Apertura de centros"
+    }, {
+        "url": "http://catalogo00.wikispaces.com/Abierto+por+vacaciones",
+        "subtopicof": "PROGRAMA CONVIVE Y CONCILIA",
+        "type": "ta",
+        "label": "Abierto por vacaciones"
+    }, {
+        "url": "http://catalogo00.wikispaces.com/Asesor%C3%ADa+de+convivencia",
+        "subtopicof": "PROGRAMA CONVIVE Y CONCILIA",
+        "type": "ta",
+        "label": "Asesor\u00eda de convivencia"
+    }, {
+        "url": "http://catalogo00.wikispaces.com/Prioridad+0%2C0",
+        "subtopicof": "PROGRAMA CONVIVE Y CONCILIA",
+        "type": "ta",
+        "label": "Prioridad 0,0"
+    }, {
+        "label": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Proyectos+de+innovaci%C3%B3n+educativa",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Proyectos de innovaci\u00f3n educativa"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Proyectos+de+Innovaci%C3%B3n+educativa+basados+en+evidencias-+grupos+interactivos+PIBE-+GI",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Proyectos de Innovaci\u00f3n educativa basados en evidencias- grupos interactivos PIBE- GI"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Olimpiadas+acad%C3%A9micas",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Olimpiadas acad\u00e9micas"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Reconocimiento+de+buenas+pr%C3%A1cticas+de+educaci%C3%B3n+inclusiva+y+de+convivencia.+Centros+p%C3%BAblicos+-+concertados",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Reconocimiento de buenas pr\u00e1cticas de educaci\u00f3n inclusiva y de convivencia. Centros p\u00fablicos - concertados"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Premios+extraordinarios+de+bachillerato",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Premios extraordinarios de bachillerato"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Premios+Buenas+Pr%C3%A1cticas+innovadoras+en+el+primer+ciclo+de+educaci%C3%B3n+infantil",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Premios de buenas pr\u00e1cticas innovadoras en el primer ciclo de educaci\u00f3n infantil"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Premios+de+buenas+pr%C3%A1cticas+en+educaci%C3%B3n+infantil",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Premios de buenas pr\u00e1cticas innovadoras en el segundo ciclo de educaci\u00f3n infantil"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Network+for+the+Quality+in+Early+Childhood+Education+from+0-6+years+NETQ6",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Network for the Quality in Early Childhood Education from 0-6 years NETQ6"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Concurso+de+lectura+en+p%C3%BAblico",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Concurso de lectura en p\u00fablico"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Concurso+hispanoamericano+de+ortograf%C3%ADa",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Concurso hispanoamericano de ortograf\u00eda"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Concurso+de+pl%C3%A1stica+en+lengua+extranjera",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Concurso de pl\u00e1stica en lengua extranjera"
+    }, {
+        "url": "http://catalogo4.wikispaces.com/Feria+de+ciencias+en+ingl%C3%A9s",
+        "subtopicof": "PROGRAMA PARA EL FOMENTO DE LA EXCELENCIA ACAD\u00c9MICA",
+        "type": "ta",
+        "label": "Feria de ciencias en ingl\u00e9s/English science fair"
+    }, {
+        "label": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo en el conocimiento y la interacci\u00f3n con el mundo f\u00edsico"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Ciencia+viva",
+        "subtopicof": "Programa para el desarrollo en el conocimiento y la interacci\u00f3n con el mundo f\u00edsico",
+        "type": "ta",
+        "label": "Ciencia viva"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Entre+estrellas+y+planetas",
+        "subtopicof": "Programa para el desarrollo en el conocimiento y la interacci\u00f3n con el mundo f\u00edsico",
+        "type": "ta",
+        "label": "Entre estrellas y planetas"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Aquademia",
+        "subtopicof": "Programa para el desarrollo en el conocimiento y la interacci\u00f3n con el mundo f\u00edsico",
+        "type": "ta",
+        "label": "Aquademia"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Leer+juntos",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Leer juntos"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Plan+lector+y+mejora+de+la+competencia+en+comunicaci%C3%B3n+ling%C3%BC%C3%ADstica",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Plan lector y mejora de la competencia en comunicaci\u00f3n ling\u00fc\u00edstica"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Programa+de+difusi%C3%B3n+del+aragon%C3%A9s",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Programa de difusi\u00f3n del aragon\u00e9s"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Biling%C3%BCismo+catal%C3%A1n",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Biling\u00fcismo catal\u00e1n"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Bachillerato+internacional",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Bachillerato internacional"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/2%C2%AA+lengua+extranjera+en+primaria",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "2\u00aa lengua extranjera en primaria"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Auxiliares+de+conversaci%C3%B3n",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Auxiliares de conversaci\u00f3n"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Plan+integral+de+biling%C3%BCismo+en+lenguas+extranjeras+en+Arag%C3%B3n+%28PIBLEA%29",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Plan integral de biling\u00fcismo en lenguas extranjeras en Arag\u00f3n (PIBLEA)"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Convocatoria+para+solicitar+autorizaci%C3%B3n+para+desarrollar+Proyectos+de+Potenciaci%C3%B3n+de+Lenguas+Extranjeras+%28POLE%29+a+partir+del+curso+2013-2014",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Convocatoria para solicitar autorizaci\u00f3n para desarrollar Proyectos de Potenciaci\u00f3n de Lenguas Extranjeras (POLE) a partir del curso 2013-14"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Inmersi%C3%B3n+Ling%C3%BC%C3%ADstica+en+lengua+inglesa",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Inmersi\u00f3n Ling\u00fc\u00edstica en lengua inglesa"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Compromiso+Ad+Futurum",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Compromiso Ad Futurum"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Cruzando+Fronteras",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Cruzando Fronteras"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Ayuda+programa+de+inmersion+en+lengua+inglesa+en+el+extranjero",
+        "subtopicof": "Programa para el desarrollo de la comunicaci\u00f3n ling\u00fc\u00edstica",
+        "type": "ta",
+        "label": "Inmersi\u00f3n en lengua inglesa en el extranjero (Canad\u00e1 o Estados Unidos de Am\u00e9rica) para alumnado de 4\u00ba de ESO"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo digital y tratamiento de la informaci\u00f3n"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/anTIC%C3%ADpate",
+        "subtopicof": "Programa para el desarrollo digital y tratamiento de la informaci\u00f3n",
+        "type": "ta",
+        "label": "AnTIC\u00edpate"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Facilitamos",
+        "subtopicof": "Programa para el desarrollo digital y tratamiento de la informaci\u00f3n",
+        "type": "ta",
+        "label": "Facilit@mos"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Contenidos+digitales.+Catedu",
+        "subtopicof": "Programa para el desarrollo digital y tratamiento de la informaci\u00f3n",
+        "type": "ta",
+        "label": "Contenidos digitales: Catedu"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo del emprendimiento y el sentido de la iniciativa"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Emprender+en+la+escuela",
+        "subtopicof": "Programa para el desarrollo del emprendimiento y el sentido de la iniciativa",
+        "type": "ta",
+        "label": "Emprender en la escuela"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Aprendiendo+a+emprender",
+        "subtopicof": "Programa para el desarrollo del emprendimiento y el sentido de la iniciativa",
+        "type": "ta",
+        "label": "Aprendiendo a emprender"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Programa+de+educaci%C3%B3n+financiera",
+        "subtopicof": "Programa para el desarrollo del emprendimiento y el sentido de la iniciativa",
+        "type": "ta",
+        "label": "Programa de educaci\u00f3n financiera"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Cantania",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Cantania"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Coros+escolares",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Coros escolares"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Toma+y+lee",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Toma y lee"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Un+d%C3%ADa+de+cine",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Un d\u00eda de cine"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Nos+vamos+de+museos",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Nos vamos de museos"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Programa+Educativo+del+Museo+de+Zaragoza",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Programa educativo del Museo de Zaragoza. 2014-2015"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Conciertos+pedag%C3%B3gicos+para+ni%C3%B1os+y+en+familia",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Conciertos pedag\u00f3gicos para ni\u00f1os y en familia"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Ven+a+la+%C3%B3pera",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Ven a la \u00f3pera"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Tras+la+huella+de+Goya.+El+manuscrito+perdido",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "Tras la huella de Goya: El manuscrito perdido"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/XVI+programa+de+iniciaci%C3%B3n+al+teatro",
+        "subtopicof": "Programa para el desarrollo de la competencia cultural y art\u00edstica: Educartes",
+        "type": "ta",
+        "label": "XVI programa de iniciaci\u00f3n al teatro"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo de la competencia social y ciudadana"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Trabajos+en+beneficio+de+la+comunidad",
+        "subtopicof": "Programa para el desarrollo de la competencia social y ciudadana",
+        "type": "ta",
+        "label": "Trabajos en beneficio de la comunidad"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Centros+rurales+de+innovaci%C3%B3n+educativa+%28CRIES%29",
+        "subtopicof": "Programa para el desarrollo de la competencia social y ciudadana",
+        "type": "ta",
+        "label": "Centros rurales de innovaci\u00f3n educativa (CRIES)"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Aulas+de+innovaci%C3%B3n",
+        "subtopicof": "Programa para el desarrollo de la competencia social y ciudadana",
+        "type": "ta",
+        "label": "Aulas de innovaci\u00f3n"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Pueblos+abandonados",
+        "subtopicof": "Programa para el desarrollo de la competencia social y ciudadana",
+        "type": "ta",
+        "label": "Pueblos abandonados"
+    }, {
+        "subtopicof": "PROGRAMA PARA FAVORECER EL \u00c9XITO ESCOLAR: APRENDER A APRENDER",
+        "label": "Programa para el desarrollo de la competencia matem\u00e1tica"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Conexi%C3%B3n+Matem%C3%A1tica",
+        "subtopicof": "Programa para el desarrollo de la competencia matem\u00e1tica",
+        "type": "ta",
+        "label": "Conexi\u00f3n Matem\u00e1tica"
+    }, {
+        "url": "http://catalogo2.wikispaces.com/Ajedrez+en+la+escuela",
+        "subtopicof": "Programa para el desarrollo de la competencia matem\u00e1tica",
+        "type": "ta",
+        "label": "Ajedrez en la escuela"
+    }, {
+        "label": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Int%C3%A9rpretes+de+lengua+de+signos",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Int\u00e9rpretes de lengua de signos"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Ayuda+t%C3%A9cnica+para+la+audici%C3%B3n.+Emisoras+de+frecuencia+modulada",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Ayuda t\u00e9cnica para la audici\u00f3n: emisoras de frecuencia modulada"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Aulas+de+atenci%C3%B3n+educativa+para+sordoceguera",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Aulas de atenci\u00f3n educativa para alumnos con sordoceguera"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Servicio+de+de+interpretaci%C3%B3n+telef%C3%B3nica+en+centros+educativos",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Servicio de interpretaci\u00f3n telef\u00f3nica en centros educativos"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+mediaci%C3%B3n+intercultural",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de mediaci\u00f3n intercultural"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Aulas+de+espa%C3%B1ol+para+alumnos+inmigrantes",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Aulas de espa\u00f1ol para alumnos inmigrantes"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Refuerzo+extraescolar+de+aprendizaje+del+espa%C3%B1ol+para+alumnos+extranjeros",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Refuerzo extraescolar de aprendizaje del espa\u00f1ol para alumnos extranjeros"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+acogida+e+integraci%C3%B3n+de+alumnos+inmigrantes.+Tutores+de+acogida",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de acogida e integraci\u00f3n de alumnos inmigrantes: tutores de acogida"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/programa+de+prevenci%C3%B3n+del+absentismo+escolar",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de prevenci\u00f3n del absentismo escolar"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Unidades+de+intervenci%C3%B3n+educativa+espec%C3%ADfica+%28UIEE%29",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de promoci\u00f3n de la permanencia en el sistema educativo"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Escolarizaci%C3%B3n+extraordinaria.+Hospitales+y+menores",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programas espec\u00edficos: domiciliaria, sanitaria, tutela judicial"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+para+el+desarrollo+de+capacidades",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa para el desarrollo de capacidades"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+aprendizaje+b%C3%A1sico+%28PAB%29",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de aprendizaje b\u00e1sico (PAB)"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+aprendizaje+inclusivo",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de aprendizaje inclusivo"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+diversificaci%C3%B3n+curricular",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de diversificaci\u00f3n curricular"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+de+mejora+del+aprendizaje+y+del+rendimiento",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa de mejora del aprendizaje y del rendimiento"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Programa+del+Plan+de+Refuerzo%2C+Orientacui%C3%B3n+y+Apoyo+%28PROA%29.+Convocatoria+para+centros+p%C3%BAblicos+durante+el+a%C3%B1o+2013",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa A\u00fana, de participaci\u00f3n educativa y ampliaci\u00f3n del tiempo de aprendizaje (centros p\u00fablicos)"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/programa+del+Plan+de+Refuerzo%2C+Orientaci%C3%B3n+y+Apoyo+%28PROA%29.+Convocatoria+para+centros+concertados+durante+el+a%C3%B1o+2013",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Programa A\u00fana, de participaci\u00f3n educativa y ampliaci\u00f3n del tiempo de aprendizaje (centros concertados)"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Repaso+on-line+de+Matem%C3%A1ticas%2C+Lengua+y+Ciencias+Naturales+para+ESO.+Herramienta+Educans",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Repaso on-line de Matem\u00e1ticas, Lengua y Ciencias Naturales para ESO. Herramienta Educans"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Mantenimiento+de+la+lengua+y+cultura+de+origen",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Mantenimiento de la lengua y cultura de origen"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Ayudas+de+material+curricular",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Ayudas de material curricular"
+    }, {
+        "url": "http://catalogo1.wikispaces.com/Ayudas+de+comedor",
+        "subtopicof": "PROGRAMA DE EDUCACI\u00d3N INCLUSIVA",
+        "type": "ta",
+        "label": "Ayudas de comedor"
+    }],
+    "types": {
+        "ta": {
+            "pluralLabel": "actuaciones",
+            "label": "actuación"
+        }
+    }
+}
