@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.title {
+    font-weight: bold;
+}
+
+div.title {
+    margin:     5px 0;
+    font-size: 150%;
+}
+
+span.property {
+    font-weight: bold;
+    padding-right: 3px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+td div {
+    padding-bottom: 5px;
+}
