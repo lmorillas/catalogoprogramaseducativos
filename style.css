@@ -23,3 +23,9 @@ ol {
 td div {
     padding-bottom: 5px;
 }
+
+
+div.exhibit-facet-body{
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
